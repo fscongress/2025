@@ -1,6 +1,6 @@
 # fscongress/2025
 
-Bills and resolutions from July 2025 onwards. Other legislation is be hosted on [another repository](https://github.com/fscongress).
+Bills and resolutions from July 2025 onwards. Other legislation is hosted on [another repository](https://github.com/fscongress).
 
 The [State Legislature Board](https://trello.com/b/yXIDv41R/state-legislature-board) is the authoritative source of what laws exist, this repository is only a record of the **text** of laws. Similarly, only the [State Legislature Operations board](https://trello.com/b/Paha9q5g/state-legislature-operations) reflects bills' current progress through Congress; this repository, again, only acts as a record of the text.
 
