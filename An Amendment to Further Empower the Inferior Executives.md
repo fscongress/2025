@@ -19,7 +19,7 @@ Chief sponsor: Speaker of the House T_xom
 
 (a) This Act shall be enforced by any relevant parties.
 
-**§5. Definitions **
+**§5. Definitions**
 
 An Act to Authorize Inferior Executives shall be defined here: https://forums.stateoffirestone.com/t/an-act-to-authorize-inferior-executives/26825
 
