@@ -1,5 +1,8 @@
 # An Amendment to Further Empower the Inferior Executives
 
+Chief sponsor: Speaker of the House T_xom
+<br/>Co-sponsor: County Executive legaalsp
+
 **§1. Title**
 
 (a) This amendment shall be known, and may be cited as, “An Amendment to Further Empower the Inferior Executives”
