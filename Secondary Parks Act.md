@@ -1,4 +1,4 @@
-<!-- <div align="center"> -->
+<div align="center">
 
 ## IN THE SENATE OF THE STATE OF FIRESTONE
 
@@ -10,7 +10,7 @@ Ms. Automationeer (for herself, Ms. ConfussIed, Mr. TheGreenLego_Brick, Mr. dovn
 
 **To designate the Firestone Park Service as a secondary department.**
 
-<!-- </div> -->
+</div>
 
 ---
 
