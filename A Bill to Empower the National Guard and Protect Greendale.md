@@ -42,7 +42,7 @@ Proposed by: *President pro tempore wierdo25*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Chapter 3 Section 8 subsection b2 of the Firestone Criminal Code shall now state: "(b2) Entering into the areas marked in red in [this](https://gyazo.com/6fa05849d18f74523e3d4ece884752d0) screenshot or entering into any body of water in the areas marked in yellow in [this](https://gyazo.com/5d8087f93149d601b200d234f9c01cd2) screenshot without proper clearance from authorized personnel of the Firestone National Guard or Coast Guard."
 
-&nbsp;&nbsp;&nbsp;(b) Chapter 3 Section 9 of the Firestone Criminal Code shall be amended.
+&nbsp;&nbsp;&nbsp;(c) Chapter 3 Section 9 of the Firestone Criminal Code shall be amended.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) Chapter 3 Section 9 Subsection 3 of the Firestone Criminal Code currently states: "(b3) Lingering/waiting in the blue areas marked in this screenshot without proper clearance and refusing to leave when asked to do so by authorized personnel of the Firestone National Guard."
 
